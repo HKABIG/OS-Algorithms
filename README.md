@@ -30,8 +30,8 @@ This project demonstrates system programming concepts using C, covering a variet
 
 ### Basic Bash Scripts
 
-- `basic_script_1.sh`: A Bash script for [describe purpose].
-- `basic_script_2.sh`: Another Bash script for [describe purpose].
+- `armstrong.sh`: A Bash script for [e.g. Find Armstrong number].
+- `count_vowels.sh`: Another Bash script for [e.g. Finding vowels count in a file].
 
 ## Installation
 
